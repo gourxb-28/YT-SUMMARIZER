@@ -129,4 +129,10 @@ Open a new terminal window:
    http://localhost:5173
    ```
 
+### Future Improvements
+1. **Whisper Integration:** Add OpenAI Whisper speech-to-text to transcribe videos that lack captions.
+2. **Persistent Storage:** Store summaries and chat histories in SQLite or PostgreSQL.
+3. **Multi-Language Translation:** Translate summaries and answers into regional languages (Hindi, Spanish, French, etc.).
+4. **PDF/Notes Export:** Add a button to download the summary and Q&A session as a PDF study guide.
+
 
